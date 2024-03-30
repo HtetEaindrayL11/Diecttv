@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-height{
+    height: 800px;
+}
+.custom-fontsize{
+    font-size: 18px;
+}
+.custom-width{
+    width: 1300px;
+}
